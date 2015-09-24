@@ -5,8 +5,7 @@
 #
 
 # Pull base image.
-#FROM bigboards/base-__arch__
-FROM bigboards/base-x86_64
+FROM bigboards/base-__arch__
 
 MAINTAINER bigboards
 
